@@ -1,0 +1,43 @@
+_id: req_196685f1169740209fdc6be2c22def51
+type: Request
+parentId: fld_153337c4cec444bdb038b037666a09ea
+modified: 1685577090795
+created: 1685555692801
+url: https://api.instagram.com/oauth/access_token
+name: "Get Token "
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: client_id
+      value: "208339095429983"
+      type: text
+      id: pair_d9cd1bf70c344714a66d93aa7f86d2a5
+    - name: client_secret
+      value: 6ab82e9b33dd86549859df0644dc7d49
+      type: text
+      id: pair_7c163fac50994aabb69a4c545b68ad73
+    - name: grant_type
+      value: authorization_code
+      type: text
+      id: pair_d72a97a6a9a54e0b85bede7a37fc6b33
+    - name: redirect_uri
+      value: https://sites.google.com/view/portfolio-brendon
+      type: text
+      id: pair_e75cbcfc2da0443faad8c4a68209f1c3
+    - name: code
+      value: AQBxy_dOBPqSQW19fiChxGSkt8loMgJcaP3gQGlAy5O4UgAYl2ju2iQ8UAvymqiCYzAeTzcNZNX677NQk6wnMfRK5pOz45clCnNzAnkdQIE4ll_UWQlagv1NUd79MbLxAjRzeIFxm9bbkLUgfaTaYawvVqXyevye9EKN-FVqfAjdegRxp7kZaec7Idq6RsqvEqukMv_kYXfuCidkIfl6KNyL8qn6YA0GZR8Rzpzr1afKPQ#_
+      type: text
+      id: pair_059fbad0b36c472ca2cb4516af5ae37a
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685555175994
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
