@@ -1,10 +1,10 @@
-_id: req_196685f1169740209fdc6be2c22def51
+_id: req_15e0ca575e4f459fa18b5e76a29c8b4f
 type: Request
 parentId: fld_153337c4cec444bdb038b037666a09ea
-modified: 1685578911535
-created: 1685555692801
+modified: 1685578753767
+created: 1685578739441
 url: https://api.instagram.com/oauth/access_token
-name: "Get Token "
+name: Get Token - Get Album
 description: "https://api.instagram.com/oauth/authorize?client_id=2083390954299\
   83&redirect_uri=https://sites.google.com/view/portfolio-brendon&scope=user_pr\
   ofile,user_media&response_type=code
@@ -40,22 +40,18 @@ body:
       value: 6ab82e9b33dd86549859df0644dc7d49
       type: text
       id: pair_7c163fac50994aabb69a4c545b68ad73
-    - name: grant_type
-      value: authorization_code
-      type: text
-      id: pair_d72a97a6a9a54e0b85bede7a37fc6b33
     - name: redirect_uri
       value: https://sites.google.com/view/portfolio-brendon
       type: text
       id: pair_e75cbcfc2da0443faad8c4a68209f1c3
     - name: code
-      value: AQBCUAEDkUPIImR41h3iaZnPWZs6rOCGwGqo00sl-oyfZkZv_QJ24ugXWN6pk1JOyACPA4KhJddkym3OHrBbs7jZBq-41dCvtg1MXWd7t3n4U-4Nv0CW-0bEja0xeICxCFGhzsXycMoKcQf2hb3o_ZI-8q9SgLU7gtq25pES-eUoHFUAr46rce5OT5tUzHynhP2cHZ_hir1jXZyoquLzWhmt56nshbaRQoqzILRAiFWk7Q#_
+      value: AQBxy_dOBPqSQW19fiChxGSkt8loMgJcaP3gQGlAy5O4UgAYl2ju2iQ8UAvymqiCYzAeTzcNZNX677NQk6wnMfRK5pOz45clCnNzAnkdQIE4ll_UWQlagv1NUd79MbLxAjRzeIFxm9bbkLUgfaTaYawvVqXyevye9EKN-FVqfAjdegRxp7kZaec7Idq6RsqvEqukMv_kYXfuCidkIfl6KNyL8qn6YA0GZR8Rzpzr1afKPQ#_
       type: text
       id: pair_059fbad0b36c472ca2cb4516af5ae37a
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1685555175994
+metaSortKey: -1685555175969
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

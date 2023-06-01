@@ -1,25 +1,21 @@
-_id: req_3f03bb701ce74704ae3b51377bfc0444
+_id: req_44a09fd6727a4f10823f21b9e0d1e7cf
 type: Request
-parentId: fld_153337c4cec444bdb038b037666a09ea
-modified: 1685578310368
-created: 1685577119007
-url: https://graph.instagram.com/4891086637682675
-name: consultar o nó do usuário
+parentId: wrk_6704f0c1de3a419bb59bc4ca675f47ed
+modified: 1685578663556
+created: 1685577497836
+url: https://graph.instagram.com/4891086637682675/children
+name: New Request
 description: ""
 method: GET
 body: {}
 parameters:
-  - name: fields
-    value: id,username
-    disabled: false
-    id: pair_5e81d97c61754a9ea4118658915c533d
   - name: access_token
     value: IGQVJYQlU2VXFTSWR4ZAXdScWtlS091eng3NkU3ZAVNseEhPdlo1T0NmNGxRTmtRVUg4czIyZAEFyS2c2ZA0U1bWEydS02NXRpUVhvR19TTXBITEQ1M0lwWHgtb2t1dlloMFNPUVhzVzI0N3JrQ01ZAaXMwbnRyTjQ1RDRrN2N3
     disabled: false
-    id: pair_c111401117ab49a6b3d6c07863b473ef
+    id: pair_6e068e7656a648488869589a8692b2ee
 headers: []
 authentication: {}
-metaSortKey: -1685555175944
+metaSortKey: -1685577497836
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
